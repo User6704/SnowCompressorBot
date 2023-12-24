@@ -11,7 +11,7 @@ A Telegram Bot To Encode Videos Using FFMPEG
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Snowball-0/SnowCompressorBot)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/User6704/SnowCompressorBot/tree/master)
 
 
 
