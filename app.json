@@ -9,12 +9,12 @@
     "env": {
         "APP_ID": {
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
-            "value": "",
+            "value": "9513638",
             "required": true
         },
         "API_HASH": {
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
-            "value": "",
+            "value": "a318e3ebc4847a7625b9b69571125cff",
             "required": true
         },
         "BOT_TOKEN": {
@@ -24,7 +24,7 @@
         },
         "OWNER": {
             "description": "Put ids of user which can access the bot e.g 123456789",
-            "value": "",
+            "value": "5398036489",
             "required": true
         },
         "THUMBNAIL": {
